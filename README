@@ -1,0 +1,5 @@
+This repository contains a chrome plugin that forwards
+the traffic sent by the browser to a local http server
+running on port 8000. It is used for collecting
+communication that is later encrypted before being
+sent over the wire.
